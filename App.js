@@ -1,7 +1,7 @@
 import { StatusBar } from "expo-status-bar";
 import React from "react";
 import "react-native-gesture-handler";
-import Router from './src/components/navigation/Router';
+import Router from './src/navigation/Router';
 
 
 export default function App() {

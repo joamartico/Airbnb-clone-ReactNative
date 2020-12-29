@@ -1,8 +1,8 @@
 import React from "react";
-import { NavigationContainer } from "@react-navigation/native";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
-import HomeScreen from "../../screens/Home/HomeScreen";
+
 import { Fontisto, FontAwesome5 } from "@expo/vector-icons";
+import HomeScreen from '../screens/Home/HomeScreen';
 
 const Tab = createBottomTabNavigator();
 
